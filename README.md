@@ -9,4 +9,6 @@ $ npm install
 $ npm start
 ````
 
-Head over to https://vitejs.dev/ to learn more about using vite
+
+Live site:
+https://vanlife-dun.vercel.app/
